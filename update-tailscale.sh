@@ -12,8 +12,8 @@
 # Date: 2024-01-24
 SCRIPT_VERSION="2024.07.09.03"
 SCRIPT_NAME="update-tailscale.sh"
-UPDATE_URL="https://raw.githubusercontent.com/Admonstrator/glinet-tailscale-updater/main/update-tailscale.sh"
-TAILSCALE_TINY_URL="https://github.com/Admonstrator/glinet-tailscale-updater/releases/latest/download/"
+UPDATE_URL="https://raw.githubusercontent.com/forik/glinet-tailscale-updater/main/update-tailscale.sh"
+TAILSCALE_TINY_URL="https://github.com/forik/glinet-tailscale-updater/releases/latest/download/"
 #
 # Usage: ./update-tailscale.sh [--ignore-free-space] [--force] [--restore] [--no-upx] [--no-download] [--no-tiny] [--help]
 # Warning: This script might potentially harm your router. Use it at your own risk.
